@@ -12,13 +12,11 @@ This project analyzes a comprehensive Alzheimer's prediction dataset to identify
 - Socioeconomic factors (Education Level, Income, Employment)  
 
 **Technical Implementation**:  
-```plaintext
 - Data Cleaning: Missing value handling & categorical encoding  
 - Feature Scaling: Standardization of numerical features  
 - Model Development: Random Forest Classifier with hyperparameter tuning  
 - Explainable AI: Feature importance analysis and visualization  
 - Evaluation: Accuracy metrics & confusion matrix analysis  
-```
 
 **Key Results**:  
 📈 **Model Performance**:  
@@ -46,11 +44,5 @@ This project analyzes a comprehensive Alzheimer's prediction dataset to identify
 - Model improvement suggestions  
 - Additional visualization ideas  
 - Feature engineering recommendations  
-
-*Please ensure proper data attribution if using medical datasets*  
-
----
-
-This description emphasizes both technical implementation and clinical relevance while maintaining clear organization. It highlights your project's unique value proposition (explainable AI insights) and encourages collaboration through contribution guidelines.
 
 ---
